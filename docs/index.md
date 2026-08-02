@@ -1,3 +1,3 @@
-# Orchid Field Outreach Documentation
+# Orchid Field Outreach
 
-Welcome to the Orchid Field Outreach documentation site. This page is served from the /docs folder on the main branch.
+Documentation site for the Orchid Field Outreach project, served via GitHub Pages from the /docs folder on the main branch.
